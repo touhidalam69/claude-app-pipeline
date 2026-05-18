@@ -42,6 +42,10 @@ graph LR
 | 06 | `app-visual-assets-prompter` | Image-generation prompts for icon, feature graphic, screenshots (`outputs/06-visual-assets-prompts.md`) | "logo prompt", "feature graphic prompt", "app icon", "screenshots prompt" |
 | 07 | `privacy-policy-prompter` | A prompt for a Play Store-compliant privacy policy (`outputs/07-privacy-policy-prompt.md`) | "privacy policy", "data safety", "Play Store privacy" |
 
+## New here? Read the beginner guide
+
+Never used Claude, never shipped an app? **[GUIDE.md](GUIDE.md)** walks you through the entire pipeline end to end — accounts to set up, exact phrases to type, sample output at every stage, and Play Store submission. Start there.
+
 ## Quickstart
 
 ### Install a skill in Claude.ai
